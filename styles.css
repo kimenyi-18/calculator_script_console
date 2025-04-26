@@ -1,0 +1,24 @@
+.cart {
+  color: black;
+  background-color: yellow;
+  border-radius: 3px;
+}
+.buy {
+  color: black;
+  background-color: orange;
+  border-radius: 3px;
+}
+p {
+  color: rgb(31, 30, 30);
+}
+.red{
+    background-color: white;
+    color: black;
+}
+.yello{
+    background-color: orange;
+}
+.blac{
+    background-color: black;
+    color: white;
+}
